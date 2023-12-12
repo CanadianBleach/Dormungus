@@ -10,10 +10,3 @@ I used Unity as well as Visual Studio 2022 for this project. I also used photosh
 {Make a list of websites that you found helpful in this project}
 * [Singletons in Unity](https://gamedevbeginner.com/singletons-in-unity-the-right-way/)
 * [C# Interfaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces)
-
-# Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* I want to create more tasks for the player to do.
-* Adding multiplayer would be really hard, but is really important to do.
-* I want to change all the graphics and make them look better.
